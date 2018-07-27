@@ -1,4 +1,4 @@
-# seed-ui-no-packages
+# seed-javascript-ui-no-packages
 
 A seed for JavaScript web client-side development without using packages,
 just HTML, CSS and JavaScript.
